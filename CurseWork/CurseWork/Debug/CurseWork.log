@@ -1,0 +1,14 @@
+﻿  Field.cpp
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Field.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Field.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Field.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Field.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Field.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Game.cpp
+  Object.cpp
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Object.cpp(27,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Object.cpp(83,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pein6\source\repos\CurseWork\CurseWork\Object.cpp(113,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  CurseWork.vcxproj -> C:\Users\pein6\source\repos\CurseWork\Debug\CurseWork.exe
